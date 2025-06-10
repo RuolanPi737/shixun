@@ -1,4 +1,4 @@
-# 条件语句
+# 条件语句...,
 score = 85
 if score >= 90:
     print("A")
@@ -7,7 +7,7 @@ elif score >= 60:
 else:
     print("Fail")
 
-# 循环语句
+# 循环语句,,,,
 for i in range(5):
     if i == 3:
         continue

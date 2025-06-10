@@ -1,4 +1,4 @@
-# 变量类型
+# 变量类型///.....
 name = "Alice"  # str
 age = 20        # int
 grades = [90, 85, 88]  # list
